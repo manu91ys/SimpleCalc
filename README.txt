@@ -1,0 +1,1 @@
+-Simple calculator implemented with Addition and substraction
